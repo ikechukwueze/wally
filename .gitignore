@@ -4,5 +4,8 @@
 .env
 celerybeat-schedule*
 db.sqlite3
+settings_base.py
+settings_local.py
 **/migrations/0*.py
 /pyenv
+/logs
